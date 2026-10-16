@@ -1,0 +1,8 @@
+*.skill
+eco_data/
+__pycache__/
+*.pyc
+parsed_results.json
+engine_results.json
+report_data.md
+summary.json
